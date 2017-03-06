@@ -1,0 +1,12 @@
+{
+  "fake": "0",
+  "idadmod": {
+    "baner": "",
+    "banerfull": ""
+  },
+  "version": {
+     "name": "1.0.1",
+    "title":"Do you want to update the latest version?",
+    "content": "Fixed bugs"
+  }
+}
