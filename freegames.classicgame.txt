@@ -5,7 +5,7 @@
     "banerfull": "ca-app-pub-3290193335912644/4976520013"
   },
   "version": {
-     "name": "1.0.1",
+     "name": "1.0.0",
     "title":"Do you want to update the latest version?",
     "content": "Fixed bugs"
   }
